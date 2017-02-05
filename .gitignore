@@ -16,3 +16,4 @@ lib/file-compiler/bin
 *.iml
 *.ipr
 *.iws
+.idea
